@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: -
-  orcid: -
-  google-scholar: -
-  github: rosenbergerkm.github.io
-  twitter: -
-  youtube: -
+  email: asdf
+  orcid: asdf
+  google-scholar: asdf
+  github: asdf
+  twitter: asdf
+  youtube: asdf
 
 ### jekyll settings
 
