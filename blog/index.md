@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Instructional Design Samples
 nav:
   order: 4
   tooltip: Musings and miscellany
