@@ -9,6 +9,7 @@ nav:
 
 Below you will find a few of my instructional design samples.
 
+{% comment%}
 {% include section.html %}
 
 {% include search-box.html %}
@@ -18,3 +19,5 @@ Below you will find a few of my instructional design samples.
 {% include search-info.html %}
 
 {% include list.html data="posts" component="post-excerpt" %}
+
+{% endcomment %}
