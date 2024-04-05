@@ -1,12 +1,12 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Online Student Workshop (Articulate Rise)
+  subtitle: A workshop on how to use Canvas.
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/workshop.png
+  link: https://rise.articulate.com/share/hAH0ZGGkrUm6O1cCCIqAUzHpEHzhRbCo#/
+  description: A workshop on how to use Canvas.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - design
 
 - title: Cool Package
   subtitle: a subtitle
