@@ -1,10 +1,10 @@
 ---
-name: John Doe
-image: images/photo.jpg
+name: Kevin Rosenberger
+image: images/me.jpg
 role: phd
 group: alum
 links:
-  github: john-doe
+  github: rosenbergerkm
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
