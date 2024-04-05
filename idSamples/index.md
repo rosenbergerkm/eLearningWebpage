@@ -9,9 +9,9 @@ nav:
 
 Below you will find a few of my instructional design samples.
 
-{% comment%}
-{% include section.html %}
 
+{% include section.html %}
+{% comment%}
 {% include search-box.html %}
 
 {% include tags.html tags=site.tags %}
