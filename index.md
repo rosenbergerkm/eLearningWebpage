@@ -1,7 +1,7 @@
 ---
 ---
 
-# rosenbergerkmDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Welcome to my eLearning Portfolio! Here you'll find instructional content related to Design & Pedagogy, Community & Culturally Responsive Pedagogy, Emerging Technologies like VR/AR, and Synchronous Instruction demonstrations.
 
 
 
