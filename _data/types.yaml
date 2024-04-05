@@ -10,9 +10,9 @@ postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
-phd:
+student:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: NMSU Student, Instructional Designer
 
 undergrad:
   icon: fa-solid fa-user-graduate
