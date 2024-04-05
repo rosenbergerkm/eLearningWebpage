@@ -1,7 +1,7 @@
 ---
 name: Kevin Rosenberger
 image: images/me.jpg
-role: phd
+role: student
 group: alum
 links:
   github: rosenbergerkm
