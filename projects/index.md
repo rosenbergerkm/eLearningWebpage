@@ -1,8 +1,8 @@
 ---
-title: Projects
+title: Content
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: All content related to rubric
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
