@@ -1,15 +1,13 @@
 ---
-title: Team
+title: About Me
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: Information about myself
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}About me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Click below to find out more information about me.
 
 {% include section.html %}
 
@@ -22,6 +20,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
+{% comment %}
+
 {% include section.html %}
 
 {% capture content %}
@@ -33,3 +33,5 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+
+{% endcomment %}
