@@ -1,3 +1,4 @@
+{% comment%}
 ---
 name: Jane Smith
 image: images/photo.jpg
@@ -17,3 +18,5 @@ Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
 Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
 Lacinia at quis risus sed vulputate odio ut.
 Magna eget est lorem ipsum.
+
+{% endcomment}
