@@ -1,11 +1,11 @@
 ---
-title: Content
+title: Unsure. About?
 nav:
   order: 1
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Content
+# {% include icon.html icon="fa-solid fa-microscope" %}Unsure. About?
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
