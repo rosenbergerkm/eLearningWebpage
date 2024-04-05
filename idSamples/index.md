@@ -11,13 +11,15 @@ Below you will find a few of my instructional design samples.
 
 
 {% include section.html %}
+
+{% include list.html data="posts" component="post-excerpt" %}
+
 {% comment%}
-{% include search-box.html %}
 
 {% include tags.html tags=site.tags %}
 
-{% include search-info.html %}
+{% include search-box.html %}
 
-{% include list.html data="posts" component="post-excerpt" %}
+{% include search-info.html %}
 
 {% endcomment %}
