@@ -7,7 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}About me
 
-Click below to find out more information about me.
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
