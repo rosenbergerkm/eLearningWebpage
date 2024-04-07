@@ -22,9 +22,9 @@ Here you'll find content related to Design, Pedagogy, Culturally Responsive Teac
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/workshop.png"
   link="projects"
-  title="Our Projects"
+  title="My Content and Projects"
   flip=true
   style="bare"
   text=text
@@ -61,7 +61,7 @@ Learn more about me and my background.
 {%
   include button.html
   link="team"
-  text="About me"
+  text="Learn More"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -71,8 +71,8 @@ Learn more about me and my background.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/me.jpg"
   link="team"
-  title="Our Team"
+  title="About Me"
   text=text
 %}
