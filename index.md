@@ -7,12 +7,12 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Here you'll find content related to Design, Pedagogy, Culturally Responsive Teaching, Emerging Technologies, and Synchronous Instruction.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse all content"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -56,12 +56,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Learn more about me and my background.
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="About me"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
