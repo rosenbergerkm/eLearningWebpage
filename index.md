@@ -31,6 +31,8 @@ Here you'll find content related to Design, Pedagogy, Culturally Responsive Teac
 %}
 
 
+{% comment %}
+
 {% capture text %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -53,6 +55,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Research"
   text=text
 %}
+
+{% endcomment %}
 
 {% capture text %}
 
