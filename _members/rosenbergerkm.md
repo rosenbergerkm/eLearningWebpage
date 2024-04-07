@@ -7,4 +7,4 @@ links:
   github: rosenbergerkm
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Kevin Rosenberger holds a Bachelor’s degree in Physics from North Carolina State University. He currently works remotely from Pittsburgh, Pennsylvania for University of New Mexico - Los Alamos as an Instructional Designer. He is pursuing a Master’s degree in Educational Design and Learning Technology from New Mexico State University.
