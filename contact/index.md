@@ -12,14 +12,14 @@ Contact me by email or phone. View UNM Los Alamos on Google Maps by clicking Add
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="KR@Email.com"
+  link="KR@Email.com"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(999) 999-9999"
+  link="+1-999-999-9999"
 %}
 {%
   include button.html
