@@ -25,7 +25,7 @@ Contact me by email or phone. View UNM Los Alamos on Google Maps by clicking Add
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps](https://www.google.com/maps/place/University+of+New+Mexico-Los+Alamos/@35.8861247,-106.3221963,17z/data=!3m1!4b1!4m6!3m5!1s0x8718124253b86135:0x5aeb3a4026454d74!8m2!3d35.8861204!4d-106.319616!16s%2Fm%2F0c3vmx1?entry=ttu)"
+  link="https://www.google.com/maps/place/University+of+New+Mexico-Los+Alamos/@35.8861247,-106.3221963,17z/data=!3m1!4b1!4m6!3m5!1s0x8718124253b86135:0x5aeb3a4026454d74!8m2!3d35.8861204!4d-106.319616!16s%2Fm%2F0c3vmx1?entry=ttu"
 %}
 
 {% include section.html %}
