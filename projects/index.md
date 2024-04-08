@@ -9,7 +9,7 @@ nav:
 
 Here you’ll find content related to Design, Pedagogy, Culturally Responsive Teaching, Emerging Technologies, and Synchronous Instruction.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="publication, resource, website, design" %}
 
 {% include search-info.html %}
 
