@@ -8,6 +8,8 @@
   tags:
     - design
 
+{% comment %}
+
 - title: Zoom Webinar
   subtitle: a subtitle
   group: featured
@@ -19,7 +21,6 @@
     - team work
     - synchronous instruction and pedagogy
 
-{% comment %}
 
 - title: Favorite Community Building Tools
   subtitle: a subtitle
