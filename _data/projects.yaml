@@ -16,3 +16,13 @@
   repo: rosenbergerkm.github.io
   tags:
     - design
+
+- title: Favorite Community Building Tools
+  subtitle: a subtitle
+  image: images/communitytools.png
+  link: https://www.youtube.com/watch?v=XB63A8-XkI4
+  description: A short video decribing my three favorite community-building tools.
+  repo: rosenbergerkm.github.io
+  tags:
+    - community
+    - synchronous instruction
