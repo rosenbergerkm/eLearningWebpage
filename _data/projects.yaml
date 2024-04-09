@@ -8,4 +8,11 @@
   tags:
     - design
 
-
+- title: Course Goals & Goal Analysis
+  subtitle: a subtitle
+  image: images/goals.png
+  link: https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Goal%20Analysis%20_%20Objective%20Outlines.pdf
+  description: Creating and analyzing course objectives.
+  repo: rosenbergerkm.github.io
+  tags:
+    - design
