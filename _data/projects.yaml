@@ -19,6 +19,8 @@
     - team work
     - synchronous instruction and pedagogy
 
+{% comment %}
+
 - title: Favorite Community Building Tools
   subtitle: a subtitle
   image: images/communitytools.png
@@ -57,3 +59,5 @@
   tags:
     - design
     - community
+
+{% endcomment %}
