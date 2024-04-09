@@ -54,5 +54,25 @@
   description: A presentation for a culturally responsive Unit Plan.
   repo: rosenbergerkm.github.io
   tags:
-    - culturally responsive
+    - culturally responsive teaching
+    - synchronous instruction and pedagogy
+
+- title: Critical Digital Literacy and Climate Change
+  subtitle: a subtitle
+  image: images/crtplan.png
+  link: https://docs.google.com/document/d/1CkUvvgHPGMynq8oB9BwPfkkwwTl5lMYS/edit?usp=sharing&ouid=111276740905262887834&rtpof=true&sd=true
+  description: An essay about CDL and Climate Change.
+  repo: rosenbergerkm.github.io
+  tags:
+    - culturally responsive teaching
+
+- title: Climate Change - Unit Plan
+  subtitle: a subtitle
+  image: images/crtplan.png
+  link: https://docs.google.com/document/d/1oLaiZ96VhSvsNV77XD1gTXVQWGE5VZK_/edit?usp=sharing&ouid=111276740905262887834&rtpof=true&sd=true
+  description: An essay about CDL and Climate Change.
+  repo: rosenbergerkm.github.io
+  tags:
+    - culturally responsive teaching
     - design
+  
