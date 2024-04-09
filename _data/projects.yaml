@@ -31,8 +31,28 @@
   subtitle: a subtitle
   image: images/courseexample.png
   link: https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Course%20Outline%20Example%20-%20Fundamentals%20of%20Music%20Production.pdf
-  description: A PDF example of how I would build a course outline in Canvas.
+  description: A PDF outline of a Canvas course.
   repo: rosenbergerkm.github.io
   tags:
     - design
     - community
+
+- title: Nine Elements of Digital Citizenship
+  subtitle: a subtitle
+  image: images/digcit.png
+  link: https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Digital%20Citizenship.pdf
+  description: An infographic about Digital Citizenship.
+  repo: rosenbergerkm.github.io
+  tags:
+    - design
+    - community
+
+- title: Unit Plan Presentation
+  subtitle: a subtitle
+  image: images/crtplan.png
+  link: https://drive.google.com/file/d/1cp60d6u871Q8kaXDp4BenbnSVZLndZYH/view?usp=sharing
+  description: A presentation for a culturally responsive Unit Plan.
+  repo: rosenbergerkm.github.io
+  tags:
+    - culturally responsive
+    - design
