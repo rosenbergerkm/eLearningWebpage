@@ -11,6 +11,7 @@
   
 - title: Climate Change - Unit Plan
   subtitle: Document
+  group: featured
   image: images/UPdoc.png
   link: https://docs.google.com/document/d/1oLaiZ96VhSvsNV77XD1gTXVQWGE5VZK_/edit?usp=sharing&ouid=111276740905262887834&rtpof=true&sd=true
   description: An essay about CDL and Climate Change.
@@ -18,3 +19,14 @@
   tags:
     - culturally responsive teaching
     - design
+
+- title: Canvas Course Outline Example
+  subtitle: PDF
+  group: featured
+  image: images/courseexample.png
+  link: https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Course%20Outline%20Example%20-%20Fundamentals%20of%20Music%20Production.pdf
+  description: A PDF outline of a Canvas course.
+  repo: rosenbergerkm.github.io
+  tags:
+    - design
+    - community
