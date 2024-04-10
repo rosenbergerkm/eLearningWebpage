@@ -1,5 +1,16 @@
+- title: Favorite Community Building Tools
+  subtitle: Video
+  group: featured
+  image: images/communitytools.png
+  link: https://www.youtube.com/watch?v=XB63A8-XkI4
+  description: A short video decribing my three favorite community-building tools.
+  repo: rosenbergerkm.github.io
+  tags:
+    - community
+    - synchronous instruction and pedagogy
+
 - title: Online Student Workshop (Articulate Rise)
-  subtitle: A workshop on how to use Canvas.
+  subtitle: Articulate Rise.
   group: featured
   image: images/workshop.png
   link: https://rise.articulate.com/share/hAH0ZGGkrUm6O1cCCIqAUzHpEHzhRbCo#/
@@ -9,7 +20,7 @@
     - design
 
 - title: Course Goals & Goal Analysis
-  subtitle: a subtitle
+  subtitle: PDF
   image: images/goals.png
   link: https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Goal%20Analysis%20_%20Objective%20Outlines.pdf
   description: Creating and analyzing course objectives.
@@ -17,18 +28,8 @@
   tags:
     - design
 
-- title: Favorite Community Building Tools
-  subtitle: a subtitle
-  image: images/communitytools.png
-  link: https://www.youtube.com/watch?v=XB63A8-XkI4
-  description: A short video decribing my three favorite community-building tools.
-  repo: rosenbergerkm.github.io
-  tags:
-    - community
-    - synchronous instruction
-
 - title: Canvas Course Outline Example
-  subtitle: a subtitle
+  subtitle: PDF
   image: images/courseexample.png
   link: https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Course%20Outline%20Example%20-%20Fundamentals%20of%20Music%20Production.pdf
   description: A PDF outline of a Canvas course.
@@ -38,7 +39,7 @@
     - community
 
 - title: Nine Elements of Digital Citizenship
-  subtitle: a subtitle
+  subtitle: PDF
   image: images/digcit.png
   link: https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Digital%20Citizenship.pdf
   description: An infographic about Digital Citizenship.
@@ -48,7 +49,8 @@
     - community
 
 - title: Unit Plan Presentation
-  subtitle: a subtitle
+  subtitle: Video
+  group: featured
   image: images/crtplan.png
   link: https://drive.google.com/file/d/1cp60d6u871Q8kaXDp4BenbnSVZLndZYH/view?usp=sharing
   description: A presentation for a culturally responsive Unit Plan.
@@ -58,7 +60,7 @@
     - synchronous instruction and pedagogy
 
 - title: Critical Digital Literacy and Climate Change
-  subtitle: a subtitle
+  subtitle: Essay
   image: images/cdlessay.png
   link: https://docs.google.com/document/d/1CkUvvgHPGMynq8oB9BwPfkkwwTl5lMYS/edit?usp=sharing&ouid=111276740905262887834&rtpof=true&sd=true
   description: An essay about CDL and Climate Change.
@@ -67,7 +69,7 @@
     - culturally responsive teaching
 
 - title: Climate Change - Unit Plan
-  subtitle: a subtitle
+  subtitle: Document
   image: images/UPdoc.png
   link: https://docs.google.com/document/d/1oLaiZ96VhSvsNV77XD1gTXVQWGE5VZK_/edit?usp=sharing&ouid=111276740905262887834&rtpof=true&sd=true
   description: An essay about CDL and Climate Change.
@@ -75,4 +77,34 @@
   tags:
     - culturally responsive teaching
     - design
-  
+
+ - title: Zoom Webinar
+  subtitle: Team Zoom Webinar
+  group: featured
+  image: images/groupwebinar.png
+  link: https://www.youtube.com/watch?v=aBUtuZ69tms
+  description: A short webinar on Zoom features.
+  repo: rosenbergerkm.github.io
+  tags:
+    - team work
+    - synchronous instruction and pedagogy
+
+- title: VR Meeting Spaces
+  subtitle: Powerpoint Slides
+  image: images/spatial.png
+  link: https://docs.google.com/presentation/d/1UK5eNCrN_NHAAT_z4gIf5Py11-KhHjAe/edit?usp=sharing&ouid=111276740905262887834&rtpof=true&sd=true
+  description: Slides for presentation about VR Programs.
+  repo: rosenbergerkm.github.io
+  tags:
+    - emerging technology
+    - synchronous instruction and pedagogy
+
+- title: Horizon Workrooms
+  subtitle: Powerpoint Slides
+  image: images/workrooms.png
+  link: https://docs.google.com/presentation/d/1xejmxisH55UAkanwQJJgqeU7W2OzPr5S31j6BVLRBis/edit?usp=sharing
+  description: Slides for Horizon Workrooms.
+  repo: rosenbergerkm.github.io
+  tags:
+    - emerging technology
+    - synchronous instruction and pedagogy
