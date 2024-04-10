@@ -22,7 +22,6 @@
 
 - title: Canvas Course Outline Example
   subtitle: PDF
-  group: featured
   image: images/courseexample.png
   link: https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Course%20Outline%20Example%20-%20Fundamentals%20of%20Music%20Production.pdf
   description: A PDF outline of a Canvas course.
@@ -72,7 +71,6 @@
 
 - title: Online Student Workshop (Articulate Rise)
   subtitle: Articulate Rise.
-  group: featured
   image: images/workshop.png
   link: https://rise.articulate.com/share/hAH0ZGGkrUm6O1cCCIqAUzHpEHzhRbCo#/
   description: A workshop on how to use Canvas.
