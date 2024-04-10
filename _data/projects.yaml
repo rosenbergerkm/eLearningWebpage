@@ -59,3 +59,23 @@
   repo: rosenbergerkm.github.io
   tags:
     - culturally responsive teaching
+
+- title: Canvas Course Outline Example
+  subtitle: PDF
+  image: images/courseexample.png
+  link: https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Course%20Outline%20Example%20-%20Fundamentals%20of%20Music%20Production.pdf
+  description: A PDF outline of a Canvas course.
+  repo: rosenbergerkm.github.io
+  tags:
+    - design
+    - community
+
+- title: Nine Elements of Digital Citizenship
+  subtitle: PDF
+  image: images/digcit.png
+  link: https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Digital%20Citizenship.pdf
+  description: An infographic about Digital Citizenship.
+  repo: rosenbergerkm.github.io
+  tags:
+    - design
+    - community
