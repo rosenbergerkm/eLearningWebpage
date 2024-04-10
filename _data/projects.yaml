@@ -78,6 +78,8 @@
     - culturally responsive teaching
     - design
 
+{% comment %}
+
  - title: Zoom Webinar
   subtitle: Team Zoom Webinar
   image: images/groupwebinar.png
@@ -107,3 +109,5 @@
   tags:
     - emerging technology
     - synchronous instruction and pedagogy
+
+{% endcomment %}
