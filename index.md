@@ -75,7 +75,7 @@ Learn more about me and my background.
 
 {%
   include feature.html
-  image="images/me.jpg"
+  image="images/meborder.jpg"
   link="team"
   title="About Me"
   text=text
