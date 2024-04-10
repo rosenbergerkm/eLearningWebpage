@@ -8,6 +8,17 @@
   tags:
     - community
     - synchronous instruction and pedagogy
+  
+- title: Unit Plan Presentation
+  subtitle: Video
+  group: featured
+  image: images/crtplan.png
+  link: https://drive.google.com/file/d/1cp60d6u871Q8kaXDp4BenbnSVZLndZYH/view?usp=sharing
+  description: A presentation for a culturally responsive Unit Plan.
+  repo: rosenbergerkm.github.io
+  tags:
+    - culturally responsive teaching
+    - synchronous instruction and pedagogy
 
 - title: Online Student Workshop (Articulate Rise)
   subtitle: Articulate Rise.
@@ -48,17 +59,6 @@
     - design
     - community
 
-- title: Unit Plan Presentation
-  subtitle: Video
-  group: featured
-  image: images/crtplan.png
-  link: https://drive.google.com/file/d/1cp60d6u871Q8kaXDp4BenbnSVZLndZYH/view?usp=sharing
-  description: A presentation for a culturally responsive Unit Plan.
-  repo: rosenbergerkm.github.io
-  tags:
-    - culturally responsive teaching
-    - synchronous instruction and pedagogy
-
 - title: Critical Digital Literacy and Climate Change
   subtitle: Essay
   image: images/cdlessay.png
@@ -80,7 +80,6 @@
 
  - title: Zoom Webinar
   subtitle: Team Zoom Webinar
-  group: featured
   image: images/groupwebinar.png
   link: https://www.youtube.com/watch?v=aBUtuZ69tms
   description: A short webinar on Zoom features.
